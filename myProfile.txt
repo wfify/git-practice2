@@ -1,0 +1,4 @@
+"Nama     : Fify" 
+"Umur     : 20" 
+"Pekerjaan: Mahasiswa" 
+"Kelas    : 6 TI 7" 
