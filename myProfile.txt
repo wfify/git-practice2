@@ -1,0 +1,3 @@
+"Nama     : Fify" 
+"Umur     : 20" 
+"Pekerjaan: Mahasiswa" 
